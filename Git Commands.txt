@@ -56,3 +56,5 @@ git reset --soft
 git reset --hard
 
 git reset same as git reset --mixed
+
+git branch <new branch>
