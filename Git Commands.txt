@@ -50,3 +50,9 @@ ls -l
 git rm -r <directory>
 
 git checkout <directory>
+
+git reset --soft
+
+git reset --hard
+
+git reset same as git reset --mixed
