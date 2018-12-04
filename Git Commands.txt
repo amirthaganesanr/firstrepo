@@ -42,3 +42,11 @@ git mv <filename> <targetdir>
 git mv <oldfilename> <newfilename>
 
 git rm <filename>
+
+git checkout <filename>
+
+ls -l
+
+git rm -r <directory>
+
+git checkout <directory>
