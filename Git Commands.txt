@@ -74,3 +74,5 @@ git log origin/<another branch name>//to view log from another branch(master), p
 git merge origin/<another branch name> // merge to local repository
 
 git push origin master // push to remote repo
+
+merge error check
