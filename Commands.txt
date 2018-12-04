@@ -1,0 +1,40 @@
+pwd
+
+ssh-keygen
+
+Enter file in which to save the key (/home/tom/.ssh/id_rsa): Press Enter Only
+Created directory '/home/tom/.ssh'.
+Enter passphrase (empty for no passphrase): ---------------> Press Enter Only
+Enter same passphrase again: ------------------------------> Press Enter Only
+
+add key in github
+
+git init //local repo
+
+git clone git@github.com:amirthaganesanr/firstrepo.git
+
+git status
+
+git add
+
+git commit -m "message"
+
+git status
+
+git push origin master
+
+git log
+
+git show <commit-id>
+
+git commit --amend -m "message"
+
+git diff
+
+git pull
+
+git stash
+
+git stash pop
+
+git mv <filename> <targetdir>
