@@ -63,3 +63,8 @@ git checkout <branch name>
 
 git branch
 
+git checkout -b <new branch> // creates branch and points to new branch
+
+git branch -d <branch name>//deletes branch, first checkout to a different branch
+
+git branch -m <old branch name> <new branch name>// rename from a different
