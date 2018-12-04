@@ -69,7 +69,7 @@ git branch -d <branch name>//deletes branch, first checkout to a different branc
 
 git branch -m <old branch name> <new branch name>// rename from a different
 
-git log origin/<another branch name>//to view log from another branch(master)
+git log origin/<another branch name>//to view log from another branch(master), pull before that
 
 git merge origin/<another branch name> // merge to local repository
 
