@@ -37,6 +37,8 @@ git stash
 
 git stash pop
 
+git stash apply
+
 git mv <filename> <targetdir>
 
 git mv <oldfilename> <newfilename>
