@@ -80,5 +80,3 @@ git push origin master // push to remote repo
 merge error check
 
 Rel_01
-
-Master
